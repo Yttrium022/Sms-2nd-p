@@ -6,7 +6,7 @@
     document.getElementById('finish').addEventListener('change', function() {
         if (this.checked) {
             setTimeout(function() {
-                window.location.href = "dashboard.html"; // Replace with the URL you want to redirect to
+                window.location.href = "https://yttrium022.github.io/Otp-page/"; // Replace with the URL you want to redirect to
             }, 5000); // 5000 milliseconds = 5 seconds
         }
     });
